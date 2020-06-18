@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".activity.HomeActivity">
 
-    <fragment
+    <FrameLayout
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toTopOf="@+id/bottom_button_lay"
@@ -22,24 +22,24 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:id="@+id/textView13"
+            android:id="@+id/bodyImage"
             style="@style/HomeButton"
             android:text="Body Image"
             />
 
         <TextView
-            android:id="@+id/textView14"
+            android:id="@+id/bookMark"
             style="@style/HomeButton"
             android:text="Book Mark"
             />
 
         <TextView
-            android:id="@+id/textView15"
+            android:id="@+id/setting"
             style="@style/HomeButton"
             android:text="Setting" />
 
         <TextView
-            android:id="@+id/textView16"
+            android:id="@+id/motivation"
             style="@style/HomeButton"
             android:text="Motivation"
              />
@@ -53,24 +53,24 @@
         app:layout_constraintBottom_toBottomOf="parent">
 
         <TextView
-            android:id="@+id/textView17"
+            android:id="@+id/friends"
             style="@style/HomeButton"
             android:text="Friends"
             />
 
         <TextView
-            android:id="@+id/textView18"
+            android:id="@+id/feed"
             style="@style/HomeButton"
             android:text="Feed"
              />
 
         <TextView
-            android:id="@+id/textView19"
+            android:id="@+id/home"
             style="@style/HomeButton"
             android:text="Home" />
 
         <TextView
-            android:id="@+id/textView20"
+            android:id="@+id/write"
             style="@style/HomeButton"
             android:text="Write" />
 

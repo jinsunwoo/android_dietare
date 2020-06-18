@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">dietare</string>
+    <string name="app_name">DIETARE</string>
+    <string name="id">ID</string>
+    <string name="pw">Password</string>
+    <string name="forgotID">forgot ID</string>
+    <string name="forgotPW">forgot PW</string>
+    <string name="logIn">Log in</string>
+    <string name="signUp">Sign up</string>
+    <string name="idCondition">5~20 characters including both English \n and number or special characters -, _</string>
+    <string name="pwCondition">More than 8 chracters with combination  \n of English, numbers, and special characters.</string>
+    <string name="rePassword">Password confirmation</string>
+    <string name="send">Send</string>
+    <string name="email">Email</string>
+    <string name="confirm">Confirm</string>
+    <string name="signUp2">Sign up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

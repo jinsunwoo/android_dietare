@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DIETARE</string>
+    <string name="id">아이디</string>
+    <string name="pw">비밀번호</string>
+    <string name="forgotID">아이디 찾기</string>
+    <string name="forgotPW">비밀번호 찾기</string>
+    <string name="logIn">로그인</string>
+    <string name="signUp">회원가입</string>
+    <string name="idCondition">5~20자, 영문, 숫자, 특수문자 -, _ 사용가능</string>
+    <string name="pwCondition">영문, 숫자, 특수문자 조합. 8자 이상</string>
+    <string name="rePassword">비밀번호 확인</string>
+    <string name="send">전송</string>
+    <string name="email">이메일</string>
+    <string name="confirm">확인</string>
+    <string name="signUp2">가입하기</string>
+</resources>
